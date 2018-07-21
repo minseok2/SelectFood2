@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">selectFood</string>
+    <string name="error_field_required">Empty</string>
+</resources>
